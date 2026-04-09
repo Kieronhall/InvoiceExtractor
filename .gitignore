@@ -1,0 +1,29 @@
+# Build output
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project-specific — keep real invoices out of the repo
+Example Invoices/
+Example Spreadsheet/
+Invoice Reference Extractor/
+*.pdf
+*.xlsx
