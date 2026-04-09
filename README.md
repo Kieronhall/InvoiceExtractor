@@ -35,8 +35,6 @@ The UI is built with **CustomTkinter** for a clean dark-mode look that doesn't f
   <img src="assets/screenshot.png" alt="App screenshot" width="600"/>
 </p>
 
-> *Add your own screenshot to `assets/screenshot.png`*
-
 ## Tech stack
 
 | Component | Library |
